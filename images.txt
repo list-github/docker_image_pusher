@@ -1,2 +1,7 @@
 nginx
 mysql:8.0
+redis
+bitnami/minio:latest
+bitnami/elasticsearch:7.14.2
+rabbitmq:3.8.7
+haproxy:3.0.3
