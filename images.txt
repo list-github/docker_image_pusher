@@ -1,7 +1,7 @@
 nginx
 mysql:8.0
 redis
-bitnami/minio:latest
+minio/minio:RELEASE.2024-08-26T15-33-07Z.fips
 bitnami/elasticsearch:7.14.2
 rabbitmq:3.8.7
 haproxy:3.0.3
