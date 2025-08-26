@@ -1,8 +1,4 @@
-nginx
-mysql:8.0
-redis
-minio/minio:RELEASE.2024-08-26T15-33-07Z.fips
-bitnami/elasticsearch:7.14.2
-rabbitmq:3.11-management
-haproxy:3.0.3
-openproject/openproject:16-slim
+postgres:13
+memcached
+openproject/proxy
+willfarrell/autoheal:1.2.0
