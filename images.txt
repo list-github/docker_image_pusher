@@ -1,1 +1,2 @@
 willfarrell/autoheal:1.2.0
+caddy:2
