@@ -1,1 +1,1 @@
-openproject/proxy:16-slim
+openproject/proxy
